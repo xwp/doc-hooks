@@ -1,0 +1,9 @@
+{
+	"name": "xwp/doc-hooks",
+	"type": "library",
+	"autoload": {
+		"classmap": [
+			"src/"
+		]
+	}
+}
